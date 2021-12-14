@@ -1,3 +1,5 @@
+// programm in c++ for basic clock
+
 #include<bits/stdc++.h>
 #include<windows.h>
 using namespace std;
